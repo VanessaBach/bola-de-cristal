@@ -1,4 +1,4 @@
-Q&A application developed to apply knowledge of HTML, CSS, js and selectors during the Maratona Discovery, RocketSeat. 
+Q&A application developed to apply knowledge of HyperText Markup Language (HTML), Cascading Style Sheets (CSS), js and selectors during the Maratona Discovery, RocketSeat. 
 
 # Skills
 
