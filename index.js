@@ -1,6 +1,6 @@
 const elementoResposta = document.querySelector("#resposta")
 const inputPergunta = document.querySelector("#inputPergunta")
-const buttonPerguntar = document.querySelector("buttonPerguntar")
+const buttonPerguntar = document.querySelector("#buttonPerguntar")
 const respostas = [
   "Certeza!",
   "Não tenho tanta certeza.",
